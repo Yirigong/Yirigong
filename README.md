@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-## Experience
+## Career 📖
 ```
+세종과학예술영재학교 영재교육원 정보과학부(2019)
+국립공주대학교 정보보호영재교육원(2020)
 Korea Digital Media High School - Department of Hacking Defence(2021~2023)
 Inha University - Department of Electrical Engineering(2024~)
 ```
