@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+i'm interested in Control and Avionics System of Rocket!
 ## Career 📖
 ```
 세종과학예술영재학교 영재교육원 정보과학부(2019)
