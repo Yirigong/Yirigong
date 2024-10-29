@@ -4,7 +4,9 @@ i'm interested in Control and Avionics System of Rocket!
 ```
 세종과학예술영재학교 영재교육원 정보과학부(2019)
 국립공주대학교 정보보호영재교육원(2020)
+한국디지털미디어고등학교 - 해킹방어과(2021~2023)
 Korea Digital Media High School - Department of Hacking Defence(2021~2023)
+인하대학교 - 전기공학과(2024~)
 Inha University - Department of Electrical Engineering(2024~)
 ```
 
